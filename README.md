@@ -5,3 +5,4 @@
 * Change the URL connection in .env file
 * Uses React App to run the file
 * For detailed execution steps read README_1
+* src has the frontend applications
