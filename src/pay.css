@@ -1,0 +1,43 @@
+#img{
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.H2{
+    position:relative;
+    top:200px;
+    left:600px;
+    padding:0.3%;
+}
+#F1{
+    position:absolute;
+    top:250px;
+    left:500px;
+    border:solid;
+    padding:0.3%;
+}
+.S1{
+    position:absolute;
+    top:240px;
+    left:60px;
+    border:solid;
+    padding:0.3%;
+}
+.R1{
+    position:absolute;
+    top:240px;
+    left:160px;
+    border:solid;
+    padding:0.3%
+
+}
+.Link1{
+    position: relative;
+    top:0px;
+    left:800px;
+}
+.You{
+    position: relative;
+    top:0px;
+    left:600px;
+}

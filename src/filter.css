@@ -1,0 +1,36 @@
+.H1{
+    position: relative;
+    top:0px;
+    left:40px;
+    font-size: 60px;
+}
+.Eng{
+    position: relative;
+    top:0px;
+    left:750px;
+}
+.Kan{
+    position: relative;
+    top:30px;
+    left:750px;
+}
+.H2{
+    position: relative;
+    top:0px;
+    left:600px;
+}
+.Tam{
+    position: relative;
+    top:60px;
+    left:750px;
+}
+.Tel{
+    position: relative;
+    top:90px;
+    left:750px;
+}
+.Mal{
+    position: relative;
+    top:120px;
+    left:750px;
+}

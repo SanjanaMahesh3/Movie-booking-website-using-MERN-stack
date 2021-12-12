@@ -1,0 +1,46 @@
+#img{
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+#F1{
+    position:relative;
+    top:250px;
+    left:500px;
+    text-align:center;
+}
+#H1{
+    position: relative;
+    left:600px;
+    top:150px;
+    border-style: none;
+}
+#H2{
+    position:absolute;
+    top:320px;
+    left:700px;
+    display:inline; 
+    
+}
+#S1{
+    position:absolute;
+    top:200px;
+    left:180px;
+
+}
+#R1{
+    position:absolute;
+    top:250px;
+    left:180px;
+    
+}
+.Ay{
+    position: relative;
+    top:200px;
+    left:600px;
+}
+.Span{
+    position: relative;
+    top:200px;
+    left:600px;
+}

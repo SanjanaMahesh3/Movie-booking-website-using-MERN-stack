@@ -1,0 +1,179 @@
+#img{
+    position:absolute;
+    z-index: -2;
+    top:0px;
+    left:0px;
+}
+#sbar{
+    position: absolute;
+    left:600px;
+    top:40px;
+    border-radius: 5px;
+    height:35px;
+    width:300px;
+}
+#b1{
+    position: absolute;
+    left:930px;
+    top:40px;
+    height:35px;
+    width:75px;
+    border-radius: 5px;
+}
+.sidenav {
+height: 100%;
+width: 200px;
+position: absolute;
+z-index: 1;
+top: 130px;
+left: 0;
+background-color: #C4C4C4;
+overflow-x: hidden;
+padding-top: 20px;
+}
+
+/* Style the sidenav links and the dropdown button */
+.sidenav a{
+padding: 10px 8px 10px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #C4C4C4;
+display: block;
+border: none;
+background: none;
+width:100%;
+text-align: left;
+cursor: pointer;
+outline: none;
+font-size: 30px;
+}
+
+/* On mouse-over */
+.sidenav a:hover{
+color: #f1f1f1;
+}
+
+/* Main content */
+.main {
+margin-left: 200px; /* Same as the width of the sidenav */
+font-size: 20px; /* Increased text to enable scrolling */
+padding: 0px 10px;
+}
+#h1{
+position: absolute;
+top:450px;
+left:250px;
+font-family:'monotype corsiva';
+font-size: 45px;
+}
+#row{
+position: absolute;
+top:550px;
+}
+#column1{
+position: absolute;
+left:250px;
+}
+#column2{
+position: absolute;
+left:550px;
+}
+#column3{
+position: absolute;
+left:850px;
+}
+#column4{
+position: absolute;
+left:1150px;
+}
+#img1{
+position: absolute;
+height:350px;
+width:250px;
+padding:10px;
+}
+#text{
+position:absolute;
+color:white;
+font-size: 35px;
+left:50px;
+text-decoration: none;
+font-family: 'monotype corsiva';
+}
+#pointer {
+width: 200px;
+height: 40px;
+position: absolute;
+background: black;
+left:1100px;
+top:28px;
+}
+
+#pointer:after {
+content: "";
+position: absolute;
+left: 0;
+bottom: 0;
+width: 0;
+height: 0;
+border-left: 20px solid white;
+border-top: 20px solid transparent;
+border-bottom: 20px solid transparent;
+}
+#pointer:before {
+content: "";
+position: absolute;
+right: -20px;
+bottom: 0;
+width: 0;
+height: 0;
+border-left: 20px solid black;
+border-top: 20px solid transparent;
+border-bottom: 20px solid transparent;
+}
+#mark{
+position: absolute;
+top:130px;
+width:100%;
+}
+#m{
+margin-right:0px;
+margin-left:190px;
+}
+#myMenu{
+display:none;
+}
+.Nav{
+    position: relative;
+    left:200px;
+}
+.Fil{
+    position: absolute;
+    top:0px;
+    left:200px;
+}
+.opt{
+    position: absolute;
+    top: 40px;
+   left:10px;
+}
+#Link{
+    position: absolute;
+    top:500px;
+    left:1100px;
+}
+.Here{
+    position: relative;
+    top:70px;
+    left:60px;
+}
+.Log1{
+    position: relative;
+    top:-100px;
+    left:1300px;
+}
+.Wel1{
+    position: relative;
+    top:-160px;
+    left:1380px;
+}

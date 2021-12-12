@@ -1,0 +1,181 @@
+.img{
+    position:relative;
+display:inline;
+left:0px;
+top:0px;
+}
+.div1{
+background:#C4C4C4;
+width:1540px;
+}
+h1{
+position:absolute;
+top:150px;
+display:inline;
+}
+.div2{
+    position:absolute;
+    top: 200px;
+    display:inline;
+}
+p{
+    width:500px;
+}
+h3{
+    background-color: #7c7c6c;
+    width:200px;
+}
+.div4{
+    left:1000px;
+    position:absolute;
+    top: 250px;
+    display:inline;
+}
+button:hover{background-color: grey;}
+button{
+    width:200px;
+}
+h2{
+    font-family:monotype corsiva;
+}
+.div5{
+    display:inline;
+}
+.div6{
+    position: relative;
+    top: 0px;
+}
+.div7{
+    position: relative;
+    top:250px;
+}
+.div9{
+    position: relative;
+    top:15px;
+    left:500px;
+}
+.div8{
+    display:inline;
+}
+.img2{
+    height:100px;
+    width:100px;
+    border-radius: 60px;
+}
+.Nav{
+    position: absolute;
+}
+.Dis{
+    position: relative;
+    left:200px;
+    top:-200px;
+}
+.Rev{
+    position: absolute;
+    bottom:-180px;
+}
+.Img1{
+    position: relative;
+    top:30px;
+    left:10px;  
+}
+.H1{
+    position: relative;
+    top:-200px;
+    left:20px;
+}
+.H2{
+    position: absolute;
+    top:700px;
+}
+.H3a{
+    position: absolute;
+    top:-200px;
+    left:900px;
+}
+.H3b{
+    position: absolute;
+    top:-150px;
+    left:900px;
+}
+.H3c{
+    position: absolute;
+    top:-100px;
+    left:900px;
+}
+.H3d{
+    position: absolute;
+    top:-50px;
+    left:900px;
+}
+.H3e{
+    position: absolute;
+    top:0px;
+    left:900px;
+}
+.H2c{
+    position: absolute;
+    top:-30px;
+    left:0px;
+}
+.H2d{
+    position: absolute;
+    top:-30px;
+    left: 0px;
+}
+.Aa{
+    position: relative;
+    top:100px;
+}
+.Act{
+    position: relative;
+    left:100px;
+    top:-200px;
+}
+.Svg{
+    position: relative;
+    left:250px;
+    top:-200px;
+}
+.div3{
+    position: relative;
+    left:200px;
+}
+.Use{
+    position: relative;
+    top:-750px;
+    left:900px;
+}
+.Hey{
+    position: relative;
+}
+.H2a{
+    position: relative;
+    left:50px;
+}
+.H2b{
+    position: relative;
+    left:50px;
+}
+.H2z{
+    position: relative;
+    top:-190px;
+}
+.Hide{
+    position: relative;
+    top:-250px;
+}
+.Cast{
+    position: relative;
+    top:-180px;
+}
+.Aven{
+    position: relative;
+    top:-220px;
+    left:30px;
+}
+.BT{
+    position: relative;
+    top:-300px;
+    left:1200px;
+}

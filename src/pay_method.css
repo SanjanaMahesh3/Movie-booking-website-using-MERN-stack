@@ -1,0 +1,66 @@
+#img{
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.H2{
+    position:relative;
+    top:150px;
+    left:700px;
+    border:solid;
+    padding:0.3%;
+}
+#P1{
+    position:absolute;
+    top:280px;
+    left:730px;
+}
+.P2{
+    position: relative;
+    top:250px;
+    left:600px;
+}
+.H3{
+    position: relative;
+    top:220px;
+    left:600px;
+}
+#R1{
+    position:absolute;
+    top:380px;
+    left:730px;
+}
+#I1{
+    height:16px;
+}
+#L1{
+    position:absolute;
+    top:10x;
+    left:30px;
+}
+#I2{
+    height:16px;
+}
+#L2{
+    position:absolute;
+    top:0px;
+    left:30px;
+}
+.Link1{
+    position: relative;
+    top:-25px;
+    left:30px;
+}
+.Link2{
+    position: relative;
+    top:-25px;
+    left:30px;
+}
+.Payopt{
+    position: relative;
+    left:700px;
+}
+.Card{
+    position: relative;
+    left:800px;
+}
