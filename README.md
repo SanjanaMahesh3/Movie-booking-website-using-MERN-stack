@@ -4,4 +4,4 @@
 * Uses MONGO-DB atlas
 * Change the URL connection in .env file
 * Uses React App to run the file
-* For detailed execution steps read README2
+* For detailed execution steps read README_1
